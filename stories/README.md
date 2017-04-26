@@ -6,6 +6,7 @@
 [Dan Franc, the god mother](https://plus.google.com/+DanielFranc)
 
 Read more about heros in
+* [2017](stories_heros_2017.md)
 * [2016](stories_heros_2016.md)
 * [2015](stories_heros_2015.md)
 * [2014](stories_heros_2014.md)
