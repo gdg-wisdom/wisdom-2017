@@ -5,7 +5,7 @@
     ],
     "pluginsConfig": {
         "edit-link": {
-            "base": "https://github.com/gdg-wisdom/wisdom-2016/edit/master",
+            "base": "https://github.com/gdg-wisdom/wisdom-2017/edit/master",
             "label": "Edit this page"
         }
     }
