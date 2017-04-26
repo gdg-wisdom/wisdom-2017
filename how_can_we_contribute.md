@@ -22,10 +22,10 @@ The original [How to contribute](https://sites.google.com/site/gdgwisdom/home) s
 
 **Want to edit content along these lines?** All you need is a GitHub account.
 
-* Visit the [GDG Wisdom GitBook](http://gdg-wisdom.gitbooks.io/gdg-wisdom-2016/content/) and click "Edit This Page" on the corresponding page that you want to modify.
+* Visit the [GDG Wisdom GitBook](http://gdg-wisdom.gitbooks.io/gdg-wisdom-2017/content/) and click "Edit This Page" on the corresponding page that you want to modify.
 * You will be asked to log into your GitHub account to make edits.
 * Commit the edits. (This will trigger a pull request to our repository)
-* You're done. You will automatically be listed in our [GDG Wisdom contributors](https://github.com/gdg-wisdom/wisdom-2016/graphs/contributors) Dashboard.
+* You're done. You will automatically be listed in our [GDG Wisdom contributors](https://github.com/gdg-wisdom/wisdom-2017/graphs/contributors) Dashboard.
 
 You can find a viualisation of the process [here](https://www.lucidchart.com/documents/view/beb82d5c-7651-4f20-8e4b-27af0adbf488).
 
