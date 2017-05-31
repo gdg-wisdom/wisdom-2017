@@ -11,7 +11,7 @@ Make a plan for the next two or three events and work the co-organizers through 
 
 ###Check list
 * Give access to the registration service for events (meetup.com/eventbrite/google form)
-* Add members as managers to G+ chapter page and add link to the members profile in the link section
+* Add members as managers to G+ chapter page and add link to the members profile in the link section. Use their numeric ID (for example, https://plus.google.com/116747292129029460979) rather than their human-readable URL - right-click, copy, and paste the member's profile link
 * Promote members to managers in the G+ chapter community or Facebook group (if exists)
 * Give access to documents at Google drive, etc. about previous events
 * Give access to other social media
