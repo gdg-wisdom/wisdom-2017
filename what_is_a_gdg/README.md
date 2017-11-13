@@ -27,7 +27,7 @@ Visit the [GDG page](https://developers.google.com/groups/) on Google Developers
 
 ## How do I start or join a GDG?
 
-Visit the [directory](https://developers.google.com/groups/directory/) to see if there's a local meetup in your area. Feel free to contact the organizers to find out more. If there's no chapter near you, consider [starting one](https://developers.google.com/groups/start/)!
+Visit the [directory](https://www.meetup.com/es/pro/gdg) to see if there's a local meetup in your area. Feel free to contact the organizers to find out more. If there's no chapter near you, consider [starting one](https://developers.google.com/groups/start/)!
 
 ## What are the benefits of joining a GDG ?
 
