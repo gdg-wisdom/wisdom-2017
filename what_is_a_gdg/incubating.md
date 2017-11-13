@@ -2,14 +2,14 @@
 This section covers collective wisdom related to the topic of starting a new chapter.
 
 ### Where do I start?
-1. Visit the [GDG Directory](https://developers.google.com/groups/directory/#) and see if there's already a local meetup in your area.
+1. Visit the [GDG Directory](thttps://meetup.com/pro/gdg#) and see if there's already a local meetup in your area.
 2. If there is, talk to the organizers there to learn more about how you can contribute.
 3. If there isn't an existing chapter, then consider starting one by [reading the guidelines here](https://developers.google.com/groups/start/).
 4. Ready to start a chapter? [Fill out the application form](https://support.google.com/developergroups/contact/devgroup_new_chapter_app) and wait to hear back on the approval of your request. (If you have nothing heard for 2 weeks please open an issue here at gdg-wisdom, your request will then be forwarded to the global Google community manager.)
-5. Approved? Congratulations!! Check [the GDG Directory](https://developers.google.com/groups/directory/#) to verify the chapter listing. It will probably be marked with a ![](https://developers.google.com/_static/b929354e2e/images/gdg-directory-incubating-marker.png) to indicate its *incubating* status.
+5. Approved? Congratulations!! Check [the GDG Meetup Directory](https://meetup.com/pro/gdg#) to verify the chapter listing. It will probably take from 1 to 2 weeks to appear in the chapter listing.
 
 ### What are the Pre-Requisites?
-* Make sure you've checked the [directory](https://developers.google.com/groups/directory/#) and see that no other chapters are in your area. If there is one, contact the organizer and join in the fun.
+* Make sure you've checked the [directory](https://meetup.com/pro/gdg#) and see that no other chapters are in your area. If there is one, contact the organizer and join in the fun.
 * Please also read the [Community Guidelines](https://developers.google.com/groups/guidelines/) before proceeding.
 
 ### What are Organizers' Responsibilities?
