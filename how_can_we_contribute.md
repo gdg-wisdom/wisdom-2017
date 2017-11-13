@@ -27,7 +27,7 @@ The original [How to contribute](https://sites.google.com/site/gdgwisdom/home) s
 * Commit the edits. (This will trigger a pull request to our repository)
 * You're done. You will automatically be listed in our [GDG Wisdom contributors](https://github.com/gdg-wisdom/wisdom-2017/graphs/contributors) Dashboard.
 
-You can find a viualisation of the process [here](https://www.lucidchart.com/documents/view/beb82d5c-7651-4f20-8e4b-27af0adbf488).
+You can find a visualisation of the process [here](https://www.lucidchart.com/documents/view/beb82d5c-7651-4f20-8e4b-27af0adbf488).
 
 
 ## Contribution Conversations
@@ -46,7 +46,7 @@ The following steps needs to be done to create a new edition for year YYYY:
 1.  A label "final-YYYY" to the last commit of the previous year
 1.  Create a new github repository gdg-wisdom/wisdom-YYYY
 1. Push your local master branch to this new remote repository
-1. Create a new gitbook gdg-wisdom/gdg-wisdom-YYYY and copy the decription
+1. Create a new gitbook gdg-wisdom/gdg-wisdom-YYYY and copy the description
 1. Add the github repository as resource
 1. Add the gitbook webhook to the github repository
 1. Search and replace in the github repository all occurences of wisdom-YYYY for the previous year
